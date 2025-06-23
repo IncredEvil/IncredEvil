@@ -1,8 +1,8 @@
 ## Hi there 👋 I'm Aleksey Kokorev and I'm a student [![Vizitors](https://u8views.com/api/v1/github/profiles/184508769/views/day-week-month-total-count.svg)](https://u8views.com/github/IncredEvil)
 
-My education: Secondary general education
-Currently studying at: the Polar State University named after N. M. Fedorovsky
-My current study program: Information systems and technologies
+##My education: Secondary general education
+##Currently studying at: the Polar State University named after N. M. Fedorovsky
+##My current study program: Information systems and technologies
 
 Technology stack
 [![Static Badge](https://img.shields.io/badge/c%2B%2B-blue)](https://isocpp.org/)
