@@ -7,7 +7,8 @@ My current study program: Information systems and technologies
 
 # Technology stack
 
-[![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
+[![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)](https://learn.microsoft.com/ru-ru/dotnet/csharp/)
+[![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://learn.microsoft.com/ru-ru/cpp/cpp/?view=msvc-170)
 [![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Figma](https://img.shields.io/badge/Figma-FFFFFF.svg?style=for-the-badge&logo=figma&logoColor=000000&color=FFFFFF&labelColor=FFFFFF)](https://www.figma.com/)
 [![1C](https://img.shields.io/badge/1C:Enterprise-red?style=for-the-badge&logoColor=white)](https://1c.ru/)
