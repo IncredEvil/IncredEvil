@@ -24,12 +24,12 @@ My current study program: Information systems and technologies
 # GitHub Stats
 
 ![IncredEvil's Stats](https://github-readme-stats.vercel.app/api?username=IncredEvil&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
+![IncredEvil's Streak](https://github-readme-streak-stats.herokuapp.com/?user=IncredEvil&theme=tokyonight&hide_border=false)
+![IncredEvil's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IncredEvil&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
 
 # Contacts:
 
 [![Static Badge](https://img.shields.io/badge/telegram-lesha999333-blue)](https://t.me/lesha999333)
-![IncredEvil's Streak](https://github-readme-streak-stats.herokuapp.com/?user=IncredEvil&theme=tokyonight&hide_border=false)
-![IncredEvil's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IncredEvil&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
 
 <!--
 **IncredEvil/IncredEvil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
