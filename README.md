@@ -13,7 +13,7 @@ My current study program: Information systems and technologies
 [![Figma](https://img.shields.io/badge/Figma-FFFFFF.svg?style=for-the-badge&logo=figma&logoColor=000000&color=FFFFFF&labelColor=FFFFFF)](https://www.figma.com/)
 [![1C](https://img.shields.io/badge/1C:Enterprise-red?style=for-the-badge&logoColor=white)](https://1c.ru/)
 [![SQL](https://img.shields.io/badge/SQL-blue?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![Visual Prolog](https://img.shields.io/badge/Visual_Prolog-4B0082?style=for-the-badge&logoColor=white)](https://www.visual-prolog.com/)
+[![Visual Prolog](https://img.shields.io/badge/Visual_Prolog-%2396005F.svg?style=for-the-badge&logo=visual-studio&logoColor=white)](https://www.visual-prolog.com/)
 [![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 
 # Contacts:
