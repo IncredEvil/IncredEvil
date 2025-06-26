@@ -13,13 +13,13 @@ Technology stack
 [![Static Badge](https://img.shields.io/badge/1c-red)](https://1c.ru/)
 [![Static Badge](https://img.shields.io/badge/sql-blue)](https://www.postgresql.org/)
 [![Static Badge](https://img.shields.io/badge/visual_prolog-pink)](https://www.visual-prolog.com/)
-![C++](https://img.shields.io/badge/C++-Expert-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-Expert-yellow?style=for-the-badge&logo=python&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-Designer-pink?style=for-the-badge&logo=figma&logoColor=white)
-![1C](https://img.shields.io/badge/1C-Developer-8A2BE2?style=for-the-badge&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-Intermediate-blue?style=for-the-badge&logo=postgresql&logoColor=white)
-![Visual Prolog](https://img.shields.io/badge/Visual_Prolog-Intermediate-4B0082?style=for-the-badge&logoColor=white)
-![Git](https://img.shields.io/badge/Git-Version_Control-orange?style=for-the-badge&logo=git&logoColor=white)
+![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-pink?style=for-the-badge&logo=figma&logoColor=white)
+![1C](https://img.shields.io/badge/1C-8A2BE2?style=for-the-badge&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-blue?style=for-the-badge&logo=postgresql&logoColor=white)
+![Visual Prolog](https://img.shields.io/badge/Visual_Prolog-4B0082?style=for-the-badge&logoColor=white)
+![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git&logoColor=white)
 
 Contacts:
 
